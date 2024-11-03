@@ -1,8 +1,7 @@
 
-```markdown
 # Pterodactyl-Register-Discord-Bot
 
-![Pterodactyl-Register-Discord-Bot Banner](assets/banner.png) <!-- Replace with actual image link -->
+![Pterodactyl-Register-Discord-Bot Banner](./assets/banner.png) <!-- Replace with the actual image path if needed -->
 
 A feature-rich Discord bot to automate user registration on Pterodactyl Panel, allowing users to create accounts directly from Discord without admin permissions. This bot is ideal for gaming communities, hosting providers, and server administrators looking to streamline the account creation process for users.
 
@@ -42,6 +41,7 @@ A feature-rich Discord bot to automate user registration on Pterodactyl Panel, a
 ```bash
 git clone https://github.com/yourusername/Pterodactyl-Register-Discord-Bot.git
 cd Pterodactyl-Register-Discord-Bot
+
 ```
 
 ### Install Dependencies
