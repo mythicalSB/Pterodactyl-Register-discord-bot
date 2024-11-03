@@ -39,7 +39,7 @@ A feature-rich Discord bot to automate user registration on Pterodactyl Panel, a
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/Pterodactyl-Register-Discord-Bot.git
+https://github.com/mythicalSB/Pterodactyl-Register-discord-bot/blob/main/-Register-Discord-Bot.git
 cd Pterodactyl-Register-Discord-Bot
 
 ```
